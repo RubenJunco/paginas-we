@@ -115,7 +115,7 @@ body{
     height: 350px;
 
     top: 750px;
-    left: 650px;
+    left: 250px;
     border-radius: 5%;
     position: absolute;
     background-image: url('anuncio1.png');
@@ -128,7 +128,7 @@ body{
     height: 350px;
 
     top: 750px;
-    left: 1050px;
+    left: 750px;
     border-radius: 5%;
     position: absolute;
     background-image: url('anuncio2.png');
@@ -141,7 +141,7 @@ body{
     height: 350px;
 
     top: 750px;
-    left: 1450px;
+    left: 1250px;
     border-radius: 5%;
     position: absolute;
     background-image: url('anuncio3.png');
@@ -154,7 +154,7 @@ body{
     height: 500px;
 
     top: 150px;
-    left: 550px;
+    left: 300px;
     border-radius: 5%;
     position: absolute;
     background-image: url('entrega.png');
@@ -167,7 +167,7 @@ body{
     height: 500px;
 
     top: 150px;
-    left: 1250px;
+    left: 900px;
     border-radius: 5%;
     position: absolute;
     background-image: url('ex.png');
@@ -175,4 +175,127 @@ body{
     background-position: center; 
   }
 
+  .pregunta1 {
+    width: 350px;
+    height: 50px;
+    position: relative;
 
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+
+    top: 50px;
+    left: 340px;
+    
+  }
+
+  .pregunta2 {
+    width: 350px;
+    height: 50px;
+    position: relative;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+
+    top: 550px;
+    left: 260px;
+    
+  }
+
+
+  .anuncio4 {
+    width: 350px;
+    height: 350px;
+
+    top: 1250px;
+    left: 1250px;
+    border-radius: 5%;
+    position: absolute;
+    background-image: url('anuncio4.png');
+    background-size: cover; 
+    background-position: center; 
+  }
+
+  .anuncio5 {
+    width: 350px;
+    height: 350px;
+
+    top: 1250px;
+    left: 750px;
+    border-radius: 5%;
+    position: absolute;
+    background-image: url('anuncio5.png');
+    background-size: cover; 
+    background-position: center; 
+  }
+
+  .anuncio6 {
+    width: 350px;
+    height: 350px;
+
+    top: 1250px;
+    left: 250px;
+    border-radius: 5%;
+    position: absolute;
+    background-image: url('anuncio6.png');
+    background-size: cover; 
+    background-position: center; 
+  }
+
+  .pregunta3 {
+    width: 350px;
+    height: 50px;
+    position: relative;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+
+    top: 1000px;
+    left: 260px;
+    
+  }
+
+  .pregunta4 {
+    width: 500px;
+    height: 50px;
+    position: relative;
+
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+
+    top: 1400px;
+    left: 280px;
+    
+  }
+
+  .pregunta5 {
+    width: 500px;
+    height: 50px;
+    position: relative;
+
+    text-decoration: underline;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+
+    top: 1400px;
+    left: 280px;
+    
+  }
+
+  .barra_inferior {
+    height: 150px;
+    width: 100%;
+
+    top: 1850px;
+    left: 0px;
+    border-radius: 5%;
+    position: absolute;
+    background-size: cover; 
+    background-position: center; 
+    background: #1A67DF;
+
+  }
